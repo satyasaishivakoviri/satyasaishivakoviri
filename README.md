@@ -8,6 +8,7 @@
   <a href="mailto:satyasaishivakoviri2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=satyasaishivakoviri&label=Profile%20Views&color=2F80ED&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -80,12 +81,15 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Amero-X LMS](https://github.com/satyasaishivakoviri)** | Production LMS with 3-role access control (admin/instructor/student), video uploads, progress tracking, completion certificates, and Stripe webhook-driven enrollment | Firebase, Stripe, SQL, REST APIs |
-| **[Amero-X Airdrop Platform](https://github.com/satyasaishivakoviri/amero-x)** | Gamified Web3 engagement platform serving 200+ users; built frontend mission components and Twitter API v2 social verification flow | Next.js, Firebase, REST APIs, Node.js |
-| **[Color Detection](https://github.com/satyasaishivakoviri)** | Real-time color recognition system that identifies colors from images or live webcam input using RGB-based image processing | Python, OpenCV, NumPy |
-| **[Blockchain-Based Voting System](https://github.com/satyasaishivakoviri)** | Secure, transparent, tamper-proof online voting system with permanent vote storage | Python, SHA-256 Hashing |
+| **[Amero-X](https://github.com/satyasaishivakoviri/amero-x)** | Gamified Web3 engagement platform serving 200+ users; frontend mission components and Twitter API v2 social verification flow | Next.js, Firebase, REST APIs, Node.js |
 | **[IdleWheels](https://github.com/satyasaishivakoviri/idlewheels)** | Full-stack vehicle rental platform with vehicle booking, secure authentication, and efficient backend services | JavaScript |
 | **[100 Days of Python](https://github.com/satyasaishivakoviri/python-)** | 100 Days of Python Full Stack Development challenge — Python from basics to advanced, building a real-world project every day | Python |
+| **[project](https://github.com/satyasaishivakoviri/project)** | JavaScript project repository | JavaScript |
+| **Amero-X LMS** *(solo build @ ANACT INFOTECH)* | Production LMS with 3-role access control (admin/instructor/student), video uploads, progress tracking, completion certificates, and Stripe webhook-driven enrollment | Firebase, Stripe, SQL, REST APIs |
+| **Color Detection** | Real-time color recognition system that identifies colors from images or live webcam input using RGB-based image processing | Python, OpenCV, NumPy |
+| **Blockchain-Based Voting System** | Secure, transparent, tamper-proof online voting system with permanent vote storage | Python, SHA-256 Hashing |
+
+> 💡 Not all projects have public repos yet — happy to link/push them if you'd like these findable too.
 
 ---
 
@@ -106,6 +110,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyasaishivakoviri&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasaishivakoviri&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+<!-- SNAKE_START -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyasaishivakoviri/satyasaishivakoviri/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+<!-- SNAKE_END -->
 
 ---
 
