@@ -79,18 +79,18 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Amero-X](https://github.com/satyasaishivakoviri/amero-x)** | Gamified Web3 engagement platform serving 200+ users; frontend mission components and Twitter API v2 social verification flow | Next.js, Firebase, REST APIs, Node.js |
-| **[IdleWheels](https://github.com/satyasaishivakoviri/idlewheels)** | Full-stack vehicle rental platform with vehicle booking, secure authentication, and efficient backend services | JavaScript |
-| **[100 Days of Python](https://github.com/satyasaishivakoviri/python-)** | 100 Days of Python Full Stack Development challenge — Python from basics to advanced, building a real-world project every day | Python |
-| **[project](https://github.com/satyasaishivakoviri/project)** | JavaScript project repository | JavaScript |
-| **Amero-X LMS** *(solo build @ ANACT INFOTECH)* | Production LMS with 3-role access control (admin/instructor/student), video uploads, progress tracking, completion certificates, and Stripe webhook-driven enrollment | Firebase, Stripe, SQL, REST APIs |
-| **Color Detection** | Real-time color recognition system that identifies colors from images or live webcam input using RGB-based image processing | Python, OpenCV, NumPy |
-| **Blockchain-Based Voting System** | Secure, transparent, tamper-proof online voting system with permanent vote storage | Python, SHA-256 Hashing |
+| Project                                                                                   | Description                                                                                                                                                              | Tech Stack                                            |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| **[Amero-X](https://github.com/satyasaishivakoviri/amero-x)**                             | Gamified Web3 engagement platform serving 200+ users; frontend mission components and Twitter API v2 social verification flow                                            | Next.js, Firebase, REST APIs, Node.js                 |
+| **[IdleWheels](https://github.com/satyasaishivakoviri/idlewheels)**                       | Full-stack vehicle rental platform with vehicle booking, secure authentication, and efficient backend services                                                           | JavaScript                                            |
+| **[House Price Prediction](https://github.com/satyasaishivakoviri/housepriceprediction)** | Machine Learning-based web application that predicts house prices based on user-provided property details, with an interactive interface and deployed online application | Python, Machine Learning, Next.js, React.js, Firebase |
+| **[100 Days of Python](https://github.com/satyasaishivakoviri/python-)**                  | 100 Days of Python Full Stack Development challenge — Python from basics to advanced, building a real-world project every day                                            | Python                                                |
+| **[project](https://github.com/satyasaishivakoviri/project)**                             | JavaScript project repository                                                                                                                                            | JavaScript                                            |
+| **Amero-X LMS** *(solo build @ ANACT INFOTECH)*                                           | Production LMS with 3-role access control (admin/instructor/student), video uploads, progress tracking, completion certificates, and Stripe webhook-driven enrollment    | Firebase, Stripe, SQL, REST APIs                      |
+| **Color Detection**                                                                       | Real-time color recognition system that identifies colors from images or live webcam input using RGB-based image processing                                              | Python, OpenCV, NumPy                                 |
+| **Blockchain-Based Voting System**                                                        | Secure, transparent, tamper-proof online voting system with permanent vote storage                                                                                       | Python, SHA-256 Hashing                               |
 
 > 💡 Not all projects have public repos yet — happy to link/push them if you'd like these findable too.
-
 ---
 
 ### 🏆 Achievements
